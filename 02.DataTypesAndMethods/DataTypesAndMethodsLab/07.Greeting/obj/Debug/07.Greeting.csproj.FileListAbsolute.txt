@@ -1,5 +1,0 @@
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\07.Greeting\bin\Debug\07.Greeting.exe.config
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\07.Greeting\bin\Debug\07.Greeting.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\07.Greeting\bin\Debug\07.Greeting.pdb
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\07.Greeting\obj\Debug\07.Greeting.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\07.Greeting\obj\Debug\07.Greeting.pdb

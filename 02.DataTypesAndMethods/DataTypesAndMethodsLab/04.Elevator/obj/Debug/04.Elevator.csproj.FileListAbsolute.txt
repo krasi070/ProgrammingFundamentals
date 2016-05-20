@@ -1,5 +1,0 @@
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\04.Elevator\bin\Debug\04.Elevator.exe.config
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\04.Elevator\bin\Debug\04.Elevator.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\04.Elevator\bin\Debug\04.Elevator.pdb
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\04.Elevator\obj\Debug\04.Elevator.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\04.Elevator\obj\Debug\04.Elevator.pdb

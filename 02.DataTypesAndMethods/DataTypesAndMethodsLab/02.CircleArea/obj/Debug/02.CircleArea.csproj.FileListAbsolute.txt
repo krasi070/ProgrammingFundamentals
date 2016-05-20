@@ -1,5 +1,0 @@
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\02.CircleArea\bin\Debug\02.CircleArea.exe.config
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\02.CircleArea\bin\Debug\02.CircleArea.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\02.CircleArea\bin\Debug\02.CircleArea.pdb
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\02.CircleArea\obj\Debug\02.CircleArea.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\02.CircleArea\obj\Debug\02.CircleArea.pdb

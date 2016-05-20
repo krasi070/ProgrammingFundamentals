@@ -1,5 +1,0 @@
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.exe.config
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\03.ExactSumOfRealNumbers\bin\Debug\03.ExactSumOfRealNumbers.pdb
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\03.ExactSumOfRealNumbers\obj\Debug\03.ExactSumOfRealNumbers.pdb

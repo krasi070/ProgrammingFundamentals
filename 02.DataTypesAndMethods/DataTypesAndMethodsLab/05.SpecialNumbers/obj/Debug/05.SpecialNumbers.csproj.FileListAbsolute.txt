@@ -1,5 +1,0 @@
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe.config
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\05.SpecialNumbers\bin\Debug\05.SpecialNumbers.pdb
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\05.SpecialNumbers\obj\Debug\05.SpecialNumbers.pdb
