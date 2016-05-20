@@ -1,0 +1,5 @@
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\10.FilledSquare\bin\Debug\10.FilledSquare.exe.config
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\10.FilledSquare\bin\Debug\10.FilledSquare.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\10.FilledSquare\bin\Debug\10.FilledSquare.pdb
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\10.FilledSquare\obj\Debug\10.FilledSquare.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\10.FilledSquare\obj\Debug\10.FilledSquare.pdb

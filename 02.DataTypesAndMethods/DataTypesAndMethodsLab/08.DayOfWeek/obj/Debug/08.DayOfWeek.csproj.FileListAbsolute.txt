@@ -1,0 +1,5 @@
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\08.DayOfWeek\bin\Debug\08.DayOfWeek.exe.config
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\08.DayOfWeek\bin\Debug\08.DayOfWeek.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\08.DayOfWeek\bin\Debug\08.DayOfWeek.pdb
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\08.DayOfWeek\obj\Debug\08.DayOfWeek.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\08.DayOfWeek\obj\Debug\08.DayOfWeek.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\01.CenturiesToMinutes\bin\Debug\01.CenturiesToMinutes.exe.config
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\01.CenturiesToMinutes\bin\Debug\01.CenturiesToMinutes.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\01.CenturiesToMinutes\bin\Debug\01.CenturiesToMinutes.pdb
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\01.CenturiesToMinutes\obj\Debug\01.CenturiesToMinutes.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\01.CenturiesToMinutes\obj\Debug\01.CenturiesToMinutes.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\01.CenturiesToMinutes\obj\Debug\01.CenturiesToMinutes.pdb

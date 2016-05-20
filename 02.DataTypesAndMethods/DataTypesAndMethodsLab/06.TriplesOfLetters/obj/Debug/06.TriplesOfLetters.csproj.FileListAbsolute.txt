@@ -1,0 +1,6 @@
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\06.TriplesOfLetters\bin\Debug\06.TriplesOfLetters.exe.config
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\06.TriplesOfLetters\bin\Debug\06.TriplesOfLetters.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\06.TriplesOfLetters\bin\Debug\06.TriplesOfLetters.pdb
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\06.TriplesOfLetters\obj\Debug\06.TriplesOfLetters.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\06.TriplesOfLetters\obj\Debug\06.TriplesOfLetters.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\02.DataTypesAndMethods\DataTypesAndMethodsLab\06.TriplesOfLetters\obj\Debug\06.TriplesOfLetters.pdb
