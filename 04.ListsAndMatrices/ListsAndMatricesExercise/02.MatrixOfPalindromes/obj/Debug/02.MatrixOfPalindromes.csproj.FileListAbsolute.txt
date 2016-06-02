@@ -1,0 +1,5 @@
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.exe.config
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\02.MatrixOfPalindromes\bin\Debug\02.MatrixOfPalindromes.pdb
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\02.MatrixOfPalindromes\obj\Debug\02.MatrixOfPalindromes.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\02.MatrixOfPalindromes\obj\Debug\02.MatrixOfPalindromes.pdb

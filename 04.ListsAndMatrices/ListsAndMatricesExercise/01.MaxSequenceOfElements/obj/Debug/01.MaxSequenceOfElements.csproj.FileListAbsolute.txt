@@ -1,0 +1,6 @@
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\01.MaxSequenceOfElements\bin\Debug\01.MaxSequenceOfElements.exe.config
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\01.MaxSequenceOfElements\bin\Debug\01.MaxSequenceOfElements.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\01.MaxSequenceOfElements\bin\Debug\01.MaxSequenceOfElements.pdb
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\01.MaxSequenceOfElements\obj\Debug\01.MaxSequenceOfElements.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\01.MaxSequenceOfElements\obj\Debug\01.MaxSequenceOfElements.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\01.MaxSequenceOfElements\obj\Debug\01.MaxSequenceOfElements.pdb

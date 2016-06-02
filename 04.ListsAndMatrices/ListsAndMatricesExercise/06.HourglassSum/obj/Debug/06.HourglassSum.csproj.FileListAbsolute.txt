@@ -1,0 +1,5 @@
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\06.HourglassSum\bin\Debug\06.HourglassSum.exe.config
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\06.HourglassSum\bin\Debug\06.HourglassSum.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\06.HourglassSum\bin\Debug\06.HourglassSum.pdb
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\06.HourglassSum\obj\Debug\06.HourglassSum.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\06.HourglassSum\obj\Debug\06.HourglassSum.pdb
