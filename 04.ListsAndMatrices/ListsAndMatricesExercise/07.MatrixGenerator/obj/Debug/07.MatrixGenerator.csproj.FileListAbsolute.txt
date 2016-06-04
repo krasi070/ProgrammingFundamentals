@@ -1,6 +1,0 @@
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\07.MatrixGenerator\bin\Debug\07.MatrixGenerator.exe.config
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\07.MatrixGenerator\bin\Debug\07.MatrixGenerator.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\07.MatrixGenerator\bin\Debug\07.MatrixGenerator.pdb
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\07.MatrixGenerator\obj\Debug\07.MatrixGenerator.csprojResolveAssemblyReference.cache
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\07.MatrixGenerator\obj\Debug\07.MatrixGenerator.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\07.MatrixGenerator\obj\Debug\07.MatrixGenerator.pdb

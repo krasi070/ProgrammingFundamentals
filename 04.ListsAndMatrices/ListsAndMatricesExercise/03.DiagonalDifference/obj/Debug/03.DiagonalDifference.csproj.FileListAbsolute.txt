@@ -1,5 +1,0 @@
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\03.DiagonalDifference\bin\Debug\03.DiagonalDifference.exe.config
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\03.DiagonalDifference\bin\Debug\03.DiagonalDifference.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\03.DiagonalDifference\bin\Debug\03.DiagonalDifference.pdb
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\03.DiagonalDifference\obj\Debug\03.DiagonalDifference.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\03.DiagonalDifference\obj\Debug\03.DiagonalDifference.pdb

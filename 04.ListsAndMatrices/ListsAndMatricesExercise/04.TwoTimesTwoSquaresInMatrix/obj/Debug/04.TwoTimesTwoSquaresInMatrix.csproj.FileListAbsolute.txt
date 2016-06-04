@@ -1,5 +1,0 @@
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\04.TwoTimesTwoSquaresInMatrix\bin\Debug\04.TwoTimesTwoSquaresInMatrix.exe.config
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\04.TwoTimesTwoSquaresInMatrix\bin\Debug\04.TwoTimesTwoSquaresInMatrix.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\04.TwoTimesTwoSquaresInMatrix\bin\Debug\04.TwoTimesTwoSquaresInMatrix.pdb
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\04.TwoTimesTwoSquaresInMatrix\obj\Debug\04.TwoTimesTwoSquaresInMatrix.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\04.TwoTimesTwoSquaresInMatrix\obj\Debug\04.TwoTimesTwoSquaresInMatrix.pdb

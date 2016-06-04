@@ -55,72 +55,55 @@
         private static int[] GetFrameDimensions(int[,] matrix, int row, int col)
         {
             int element = matrix[row, col];
-            int currRow = row;
-            int currCol = col;
-            int rowsLeft = 0;
-            List<int> connections = new List<int>();
-            while (currRow < matrix.GetLength(0) && matrix[currRow, currCol] == element)
+            List<List<int>> possibleFrames = new List<List<int>>();
+            for (int i = row; i < matrix.GetLength(0); i++)
             {
-                currRow++;
-                rowsLeft++;
-                if (currCol < matrix.GetLength(1) - 1 && matrix[currRow, currCol + 1] == element)
+                if (matrix[i, col] != element)
                 {
-                    connections.Add(currRow);
+                    break;
+                }
+
+                possibleFrames.Add(new List<int>());
+                for (int j = col; j < matrix.GetLength(1); j++)
+                {
+                    if (matrix[i, j] != element)
+                    {
+                        break;
+                    }
+
+                    possibleFrames[i - row].Add(matrix[i, j]);
                 }
             }
 
-            connections = connections.OrderByDescending(n => n).ToList();
-
-            int colsUp = 0;
-            currRow = row;
-            List<int> connections2 = new List<int>();
-            while (currCol < matrix.GetLength(1) && matrix[currRow, currCol] == element)
+            List<int[]> frames = new List<int[]>();
+            while (possibleFrames.Count > 0)
             {
-                currCol++;
-                colsUp++;
-                if (currRow < matrix.GetLength(0) - 1 && matrix[currRow + 1, currCol] == element)
+                int frameWidth = Math.Min(possibleFrames[0].Count, possibleFrames[possibleFrames.Count - 1].Count);
+                while (frameWidth >= 0)
                 {
-                    connections2.Add(currCol);
+                    bool isFrame = true;
+                    for (int i = row; i < row + possibleFrames.Count; i++)
+                    {
+                        if (matrix[i, col + frameWidth - 1] != element)
+                        {
+                            isFrame = false;
+                        }
+                    }
+
+                    if (isFrame)
+                    {
+                        break;
+                    }
+
+                    frameWidth--;
                 }
-            }
 
-            connections2 = connections2.OrderByDescending(n => n).ToList();
+                frames.Add(new int[] { possibleFrames.Count, frameWidth });
+                possibleFrames.RemoveAt(possibleFrames.Count - 1);
+            }
+            
 
-            currCol--;
-            int rowsRight = 0;
-            while (currRow < matrix.GetLength(0) && matrix[currRow, currCol] == element)
-            {
-                currRow++;
-                rowsRight++;
-            }
-
-            currRow--;
-            int colsDown = 0;
-            currCol = col;
-            while (currCol < matrix.GetLength(1) && matrix[currRow, currCol] == element)
-            {
-                currCol++;
-                colsDown++;
-            }
-
-            if (rowsLeft <= rowsRight && colsUp <= colsDown)
-            {
-                return new int[] { rowsLeft, colsUp };
-            }
-            else if (rowsLeft >= rowsRight && colsUp >= colsDown)
-            {
-                return new int[] { rowsRight, colsDown };
-            }
-            else if (rowsLeft <= rowsRight && colsUp >= colsDown)
-            {
-                return new int[] { rowsLeft, colsDown };
-            }
-            else if (rowsLeft >= rowsRight && colsUp <= colsDown)
-            {
-                return new int[] { rowsRight, colsUp };
-            }
-
-            return null;
+            return frames.OrderByDescending(a => a[0] * a[1]).FirstOrDefault();
         }
     }
 }

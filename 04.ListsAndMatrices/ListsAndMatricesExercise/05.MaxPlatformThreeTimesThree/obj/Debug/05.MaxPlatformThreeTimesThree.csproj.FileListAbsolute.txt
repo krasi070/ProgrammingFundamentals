@@ -1,5 +1,0 @@
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\05.MaxPlatformThreeTimesThree\bin\Debug\05.MaxPlatformThreeTimesThree.exe.config
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\05.MaxPlatformThreeTimesThree\bin\Debug\05.MaxPlatformThreeTimesThree.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\05.MaxPlatformThreeTimesThree\bin\Debug\05.MaxPlatformThreeTimesThree.pdb
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\05.MaxPlatformThreeTimesThree\obj\Debug\05.MaxPlatformThreeTimesThree.exe
-D:\SoftUni\03.Tech Module\01.Programming Fundamentals\04.ListsAndMatrices\ListsAndMatricesExercise\05.MaxPlatformThreeTimesThree\obj\Debug\05.MaxPlatformThreeTimesThree.pdb
