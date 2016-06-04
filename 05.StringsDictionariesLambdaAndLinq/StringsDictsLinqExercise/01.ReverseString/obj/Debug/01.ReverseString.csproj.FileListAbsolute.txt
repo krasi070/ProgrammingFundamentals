@@ -1,0 +1,6 @@
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\05.StringsDictionariesLambdaAndLinq\StringsDictsLinqExercise\01.ReverseString\bin\Debug\01.ReverseString.exe.config
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\05.StringsDictionariesLambdaAndLinq\StringsDictsLinqExercise\01.ReverseString\bin\Debug\01.ReverseString.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\05.StringsDictionariesLambdaAndLinq\StringsDictsLinqExercise\01.ReverseString\bin\Debug\01.ReverseString.pdb
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\05.StringsDictionariesLambdaAndLinq\StringsDictsLinqExercise\01.ReverseString\obj\Debug\01.ReverseString.csprojResolveAssemblyReference.cache
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\05.StringsDictionariesLambdaAndLinq\StringsDictsLinqExercise\01.ReverseString\obj\Debug\01.ReverseString.exe
+D:\SoftUni\03.Tech Module\01.Programming Fundamentals\05.StringsDictionariesLambdaAndLinq\StringsDictsLinqExercise\01.ReverseString\obj\Debug\01.ReverseString.pdb
